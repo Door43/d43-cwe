@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cwe:home|Door43 (cwe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cwe|d43-cwe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cwe/archive/master.zip|d43-cwe.zip]]
+
+**Recent Changes**
+{{changes>ns = cwe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cwe|Ethnologue data]]
+
